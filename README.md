@@ -3,6 +3,7 @@
 ## Sumário
 
 - [1. Acelerando sua evolução](#1-acelerando-sua-evolução)
+- [2. Layout](#2-layout)
 
 # 1. Acelerando sua evolução
 
@@ -33,6 +34,12 @@ yarn add @types/react-leaflet -D
 ```
 
 [React-Leaflet · ⚛️ React components for 🍃 Leaflet maps](https://react-leaflet.js.org/)
+
+# 2. Layout
+
+[Web](https://www.figma.com/file/5NiUl8ELhzfg13C8ySEy0v?embed_host=notion&kind=&node-id=0%3A1&viewer=1)
+
+[Mobile](https://www.figma.com/file/vGhEVpuAPfdBk6UZP2iN7K?embed_host=notion&kind=&node-id=0%3A1&viewer=1)
 
 ---
 Feito com 💜 por <a href="https://www.linkedin.com/in/hantonny-korrea-2853911a0/"><b>Hantonny Korrea</b></a>
