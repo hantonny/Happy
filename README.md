@@ -1,9 +1,8 @@
-# 💻 Anotações do NLW 3
-
 <h1 align="center">
-    <img alt="Happy" title="#happy" src="aulas/logoreadme.png" width="350px"/>
+    <img alt="Happy" title="#happy" src="logoreadme.svg" width="350px"/>
 </h1>
 
+# 💻 Anotações do NLW 3
 
 ## Sumário
 
