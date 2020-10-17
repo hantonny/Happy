@@ -8,7 +8,12 @@
 
 - [1. Acelerando sua evolução](#1-acelerando-sua-evolução)
 - [2. Olhando as oportunidades](#2-olhando-as-oportunidades)
-- [3. Layout](#3-layout)
+- [3. A escolha da stack](#3-a-escolha-da-stack)
+- [4. Até 2 anos em 2 meses](#4-até-2-anos-em-2-meses)
+- [5. A milha extra](#5-a-milha-extra)
+- [6. Layout](#6-layout)
+- [7. Capturas de Tela](#7-capturas-de-tela)
+
 
 # 1. Acelerando sua evolução
 
@@ -218,12 +223,29 @@ yarn add cors
 yarn add @types/cors
 ```
 
-# 3. Layout
+# 3. A escolha da stack
+
+### Foi feito a integração do API feita no Back-end com Front-end Web da aplicação.
+
+### Requisição do front-end para o back-end
+
+```jsx
+yarn add axios
+```
+
+# 4. Até 2 anos em 2 meses
+
+# 5. A milha extra
+
+# 6. Layout
 
 [Web](https://www.figma.com/file/5NiUl8ELhzfg13C8ySEy0v?embed_host=notion&kind=&node-id=0%3A1&viewer=1)
 
 [Mobile](https://www.figma.com/file/vGhEVpuAPfdBk6UZP2iN7K?embed_host=notion&kind=&node-id=0%3A1&viewer=1)
 
----
-
+# 7. Capturas de Tela
+<h1 align="center">
+    <img alt="Happy" title="#Happy" src="captura01.png" width="800px" />
+    <img alt="Happy" title="#Happy" src="captura02.png" width="800px" />
+</h1>
 Feito com 💜 por <a href="https://www.linkedin.com/in/hantonny-korrea-2853911a0/"><b>Hantonny Korrea</b></a> durante a Next Level Week #3 by <a href="https://rocketseat.com.br/">Rocketseat</a>
