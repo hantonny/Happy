@@ -235,6 +235,28 @@ yarn add axios
 
 # 4. Até 2 anos em 2 meses
 
+### Map View
+
+```jsx
+expo install react-native-maps
+```
+
+### Fontes - Exemplo fonte Nunito
+
+```jsx
+expo install @expo-google-fonts/nunito expo-font
+```
+
+### Navegação entre telas
+
+[React Navigation](https://reactnavigation.org/docs/getting-started)
+
+```jsx
+yarn add @react-navigation/native
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+yarn add @react-navigation/stack
+```
+
 # 5. A milha extra
 
 # 6. Layout
