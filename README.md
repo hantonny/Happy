@@ -13,6 +13,7 @@
 - [5. A milha extra](#5-a-milha-extra)
 - [6. Layout](#6-layout)
 - [7. Capturas de Tela](#7-capturas-de-tela)
+- [8. Desafio](#8-desafio)
 
 
 # 1. Acelerando sua evolução
@@ -259,6 +260,22 @@ yarn add @react-navigation/stack
 
 # 5. A milha extra
 
+### Foi feito a integração do API feita no Back-end com Mobile da aplicação, usando também o axios.
+
+### Requisição do front-end para o back-end
+
+```jsx
+yarn add axios
+```
+
+### Imagens no mobile
+
+```jsx
+yarn add expo-image-picker
+```
+
+
+
 # 6. Layout
 
 [Web](https://www.figma.com/file/5NiUl8ELhzfg13C8ySEy0v?embed_host=notion&kind=&node-id=0%3A1&viewer=1)
@@ -270,4 +287,9 @@ yarn add @react-navigation/stack
     <img alt="Happy" title="#Happy" src="captura01.png" width="800px" />
     <img alt="Happy" title="#Happy" src="captura02.png" width="800px" />
 </h1>
+
+# 8. Desafio
+
+[Versão 2.0 do Happy](https://www.notion.so/Vers-o-2-0-do-Happy-c754db7a4d41469e8c2d00fcf75392c4)
+
 Feito com 💜 por <a href="https://www.linkedin.com/in/hantonny-korrea-2853911a0/"><b>Hantonny Korrea</b></a> durante a Next Level Week #3 by <a href="https://rocketseat.com.br/">Rocketseat</a>
